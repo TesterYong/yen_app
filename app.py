@@ -8,7 +8,7 @@ from lightgbm import LGBMRegressor
 from sklearn.metrics import mean_absolute_error
 
 # 1. 웹페이지 기본 설정
-st.set_page_config(page_title="원/엔 환율 AI 예측기 v2", page_icon="💴", layout="wide")
+st.set_page_config(page_title="엔화_어디까지_떨어질까", page_icon="💴", layout="wide")
 st.title("💴 원/엔(100엔) 환율 AI 예측 대시보드 v2")
 st.caption("등락률(%) 기반 시계열 모델 · 미국 10년물 국채금리 및 기술적 지표 반영")
 
