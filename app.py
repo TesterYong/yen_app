@@ -10,7 +10,7 @@ from sklearn.metrics import mean_absolute_error
 
 # 1. 웹페이지 기본 설정
 st.set_page_config(page_title="엔화 어디까지 떨어질까 · AI 예측기", page_icon="💴", layout="wide")
-st.title("💴 원/엔(100엔) 하이브리드 AI 예측 대시보드")
+st.title("💴 오를까_떨어질까")
 st.caption("시계열 차트 AI + 미국 10년물 국채금리 + 최근 24시간 실시간 경제뉴스 심리 반영")
 
 # RSI(상대강도지수) 계산 함수
