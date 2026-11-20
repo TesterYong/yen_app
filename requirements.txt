@@ -1,0 +1,6 @@
+streamlit
+finance-datareader
+lightgbm
+scikit-learn
+feedparser
+plotly
